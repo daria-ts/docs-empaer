@@ -4,10 +4,15 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Заголовок для поисковиков
+  config:
+    required: true
+    min: 5
+    max: 50
 - type: text
   name: lang
-  label: lang
+  label: Язык
+  default: ru-RU
 - type: field_group_list
   name: meta
   label: meta
@@ -15,12 +20,15 @@ fields:
   - type: text
     name: name
     label: name
+    default: description
   - type: text
     name: content
     label: content
 - type: text
   name: category
   label: category
+  default: faq
 - type: text
   name: tags
   label: tags
+  default: крипто
