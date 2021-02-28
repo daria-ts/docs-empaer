@@ -68,11 +68,11 @@ module.exports = {
     sidebar: {
       '/guide/': [
         {
-          title: 'Guide',
+          title: 'О проекте',
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'problem',
           ]
         }
       ],
