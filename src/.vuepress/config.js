@@ -61,8 +61,6 @@ module.exports = {
         text: 'Whitepaper',
         link: 'https://empaer.ru/'
       },
-      
-      
     ],
     
     sidebar: {
@@ -101,7 +99,6 @@ module.exports = {
           collapsable: false,
           children: [
             '',
-            'using-vue',
           ]
         }
       ],
