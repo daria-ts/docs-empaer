@@ -33,7 +33,7 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: 'daria-ts/empaer-docs-vuepress',
+    repo: '',
     editLinks: false,
     docsDir: 'src/docs',
     editLinkText: '',
