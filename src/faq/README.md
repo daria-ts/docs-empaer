@@ -4,6 +4,8 @@ lang: ru-RU
 meta:
   - name: description
     content: о достоинствах и недостатках криптовалют Чем отличаются крипто-акции EMPAER от криптовалюты и классических акций?
+  - name: viewport 
+    content: width=device-width,initial-scale=1
 category: faq
 tags: 
   акции 

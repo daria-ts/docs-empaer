@@ -1,7 +1,10 @@
 ---
 home: true
 heroImage: /images/empaer-logo-3.webp
-name: name
+meta:
+  - name: viewport 
+    content: width=device-width,initial-scale=1
+name: EMPAER
 tagline: Подробное описание проекта
 actionText: Документация →
 actionLink: /guide/
