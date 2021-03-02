@@ -44,7 +44,7 @@ tags:
 
 ## Цель платформы EMPAER 
 
-![img w=300px](/images/solution.png)  
+![img w=300px](/images/solution.webp)  
 
 Экосистема Эмпаер призвана решить все эти проблемы и&#160;обеспечить:
 

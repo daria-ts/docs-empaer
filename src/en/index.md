@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/empaer-logo-3.png
+heroImage: /images/empaer-logo-3.webp
 tagline: Project description
 actionText: Read more →
 actionLink: /guide/

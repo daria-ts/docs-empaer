@@ -38,7 +38,7 @@ module.exports = {
     docsDir: 'src/docs',
     editLinkText: '',
     lastUpdated: false,
-    logo: '/logo.png',
+    logo: '/logo.webp',
   
     nav: [
       {

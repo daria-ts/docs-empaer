@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/empaer-logo-3.png
+heroImage: /images/empaer-logo-3.webp
 name: name
 tagline: Подробное описание проекта
 actionText: Документация →

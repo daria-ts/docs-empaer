@@ -14,7 +14,7 @@ tags:
 
 # {{ $frontmatter.title }}
 
-![img w=300px](/images/roadmap.png) 
+![img w=300px](/images/roadmap.webp) 
 
 ## Этапы 
 ### 2021
