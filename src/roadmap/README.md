@@ -4,6 +4,8 @@ lang: ru-RU
 meta:
   - name: description 
     content: о проекте
+  - name: viewport 
+    content: width=device-width,initial-scale=1
 category: faq
 tags: 
   акции
