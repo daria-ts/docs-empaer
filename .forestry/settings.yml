@@ -5,6 +5,20 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: directory
+  path: src/roadmap
+  label: roadmap
+  create: all
+  match: "**/*"
+  templates:
+  - post-template
+- type: directory
+  path: src/guide
+  label: guide
+  create: all
+  match: "**/*"
+  templates:
+  - post-template
+- type: directory
   path: src/faq
   label: faq
   create: all
